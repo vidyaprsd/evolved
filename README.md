@@ -5,7 +5,7 @@ EvolvED provides a method to **analyze and visualize the iterative generative pr
 
 ## Overview
 
-![EvolvED Overview](evolved/data/overview.png)
+![EvolvED Overview](data/overview.png)
 
 - Diffusion models generate images iteratively from noise.  
 - EvolvED provides a framework to analyze this evolutionary data. It encodes intermediate diffusion outputs over timesteps via an evolutionary embedding method.  
